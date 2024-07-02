@@ -9,5 +9,4 @@ public class DaOandDtoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DaOandDtoApplication.class, args);
 	}
-
 }
